@@ -1,5 +1,5 @@
 # Statistical_test_in_the_context_of_EDA
-## Обучение математической статистики в науке о данных и бизнес-аналитике
+## Обучение математической статистике в науке о данных и бизнес-аналитике
 ### Исследовательский анализ данных для компании интернет-рекрутмента
 
 ![image](https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg)
